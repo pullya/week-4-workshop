@@ -29,6 +29,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/ozonmp/week-4-workshop/category-service/pkg/category-service v0.0.0-20211106062202-6ef7f265314c
 	github.com/pressly/goose/v3 v3.3.1
+	github.com/pullya/week-4-workshop/category-service/pkg/category-service v0.0.0-20230103184331-a5406356c040 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 )
 
