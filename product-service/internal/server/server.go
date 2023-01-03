@@ -21,10 +21,10 @@ import (
 	grpc_ctxtags "github.com/grpc-ecosystem/go-grpc-middleware/tags"
 	grpc_opentracing "github.com/grpc-ecosystem/go-grpc-middleware/tracing/opentracing"
 
-	api "github.com/ozon-edu-go-2021/week-4-workshop/product-service/internal/app/product-service"
-	"github.com/ozon-edu-go-2021/week-4-workshop/product-service/internal/config"
-	product_service "github.com/ozon-edu-go-2021/week-4-workshop/product-service/internal/service/product"
-	desc "github.com/ozon-edu-go-2021/week-4-workshop/product-service/pkg/product-service"
+	api "github.com/pullya/week-4-workshop/product-service/internal/app/product-service"
+	"github.com/pullya/week-4-workshop/product-service/internal/config"
+	product_service "github.com/pullya/week-4-workshop/product-service/internal/service/product"
+	desc "github.com/pullya/week-4-workshop/product-service/pkg/product-service"
 )
 
 type GrpcServer struct {

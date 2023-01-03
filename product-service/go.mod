@@ -1,4 +1,4 @@
-module github.com/ozon-edu-go-2021/week-4-workshop/product-service
+module github.com/pullya/week-4-workshop/product-service
 
 go 1.16
 
@@ -32,4 +32,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 )
 
-// replace github.com/ozon-edu-go-2021/week-4-workshop/product-service/pkg/product-service => ./pkg/product-service
+// replace github.com/pullya/week-4-workshop/product-service/pkg/product-service => ./pkg/product-service

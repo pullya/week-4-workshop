@@ -1,8 +1,8 @@
 package product_service
 
 import (
-	product_service "github.com/ozon-edu-go-2021/week-4-workshop/product-service/internal/service/product"
-	desc "github.com/ozon-edu-go-2021/week-4-workshop/product-service/pkg/product-service"
+	product_service "github.com/pullya/week-4-workshop/product-service/internal/service/product"
+	desc "github.com/pullya/week-4-workshop/product-service/pkg/product-service"
 )
 
 type Implementation struct {

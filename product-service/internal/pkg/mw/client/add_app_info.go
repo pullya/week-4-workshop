@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/ozon-edu-go-2021/week-4-workshop/product-service/internal/config"
+	"github.com/pullya/week-4-workshop/product-service/internal/config"
 )
 
 const (
